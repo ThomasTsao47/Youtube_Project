@@ -92,4 +92,16 @@ from matplotlib.font_manager import FontProperties as font
 * published_at 欄位為 ISO 8601 時間長度，因此將其轉換為分鐘(取到小數點後1位)，並創建一個新的欄位存儲轉換後的分鐘數
 * 篩選上傳時間最晚為 113/3/31 當天結束為止的影片
 
-  
+**清洗後資料**：<br>
+![Cleaned Data](Images/Cleaned_Data.png)<br><br>
+**筆數及型態**：<br>
+![Cleaned Data](Images/Cleaned_Data_info.png)<br><br>
+
+## 8.資料分析
+以下分析的資料包含 Youtube 所有的影片類型：一般影片，shorts，直播，Podcast
+
+### 8-1 頻道總訂閱數，總影片數，總觀看數
+頻道成立時間先後排序為：Men's Game 玩物誌（2007年），Joeman（2010年），Dcard Video（2016年），木曜4超玩（2017年），志祺七七X圖文不符（2018年）。
+
+首先初探幾個宏觀指標，包含總訂閱數，總影片數，總觀看數，以了解各頻道目前的情況，並展開後續的分析。
+
