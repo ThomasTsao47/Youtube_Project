@@ -1,6 +1,6 @@
 # 臺灣 YouTube 頻道策略分析與優化（Python）
 
-[Colab Notebook 完整程式碼內容在這裡](https://github.com/ThomasTsao47/Youtube_Project/blob/main/Files/Youtube_data_project.ipynb)
+[Colab Notebook 完整文字內容及程式碼在這裡](https://github.com/ThomasTsao47/Youtube_Project/blob/main/Files/Youtube_data_project.ipynb)
 
 ## 0.目錄
 1. 專案概述
